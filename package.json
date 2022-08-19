@@ -1,0 +1,19 @@
+{
+  "name": "prep",
+  "version": "1.0.0",
+  "description": "local javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "local-js-lib"
+  },
+  "keywords": [
+    "JavaScript",
+    "npm"
+  ],
+  "author": "davydocsurg",
+  "license": "ISC"
+}
